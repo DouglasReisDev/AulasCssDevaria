@@ -6,7 +6,8 @@ html{ height: 100px;
 
 body { background-color:rgb(112, 79, 179);
     font-family: sans-serif; 
-    color: #fff /* cor padrão do site */ 
+    color: #fff; /* cor padrão do site */ 
+    margin: 0;
 }
 
 .cover-container figure img{
