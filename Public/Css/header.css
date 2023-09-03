@@ -1,5 +1,21 @@
 
-header .link-logo {
-    display:block;
+ header .link-logo {
+    
+    padding-top: 20px;
+    padding-right: 25px;
+    padding-bottom: 20px;
+    padding-left: 25px;   /* se refere a margem interna */ 
+
+}
+
+header nav ul {
+text-align: center;
+padding:0%
+
+
+}
+
+header nav ul li{
+display: inline-block;
 
 }
