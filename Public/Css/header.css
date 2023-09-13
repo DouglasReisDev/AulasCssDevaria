@@ -3,10 +3,17 @@
     
     padding: 20px 25px;
       /* se refere a margem interna */ 
-    border-bottom: 1px solid #25cbd3
-}
+      
+      
 
-header nav ul {
+  }
+
+
+.linha{
+  border-bottom: 1px solid #25cbd3;
+} 
+
+  header nav ul {
 padding:0%;
 text-align: center;
 border-bottom:2px #25cbd3; 
