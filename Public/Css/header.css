@@ -34,7 +34,18 @@ margin-right: 15px;
 color:#fff;
 text-decoration: none;
    
+}
+
+@media (max-width: 768px) {
+  
+  header{ 
+  position: relative;
+  }
+  
+  .menu {
+    position: absolute;
+
+  }
 
 
 }
-
