@@ -10,8 +10,10 @@ body { background-color:rgb(112, 79, 179);
     margin: 0; /* se refere a margem externa da página */ 
 }
 
-.cover-container figure img{
+.cover-container figure img {
     width: 100%;
     
 
 }
+
+
