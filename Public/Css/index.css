@@ -1,10 +1,11 @@
 
-html{ height: 100px;
+html{ height:100px;
 
 }
 
 
-body { background-color:rgb(112, 79, 179);
+body { 
+    background-color: blueviolet;
     font-family: sans-serif; 
     color: #fff; /* cor padrão do site */ 
     margin: 0; /* se refere a margem externa da página */ 
